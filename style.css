@@ -1,4 +1,15 @@
+body{
+    background: linear-gradient(to bottom, rgb(21, 189, 223), rgb(0, 255, 213));
+}
+
 h1{
 color: pink;
+}   
 
+.imagemguido{
+    width: 25%;
+    border: solid  10px red;
+    margin-top: 100px;
+    margin-left: 30%;
+    padding: 20px;
 }
