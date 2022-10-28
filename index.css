@@ -1,0 +1,62 @@
+header {
+    background-color: white;
+}
+
+.cabecalho {
+    width: 100%;
+}
+
+nav {
+    font-size: 30px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 30%;
+}
+
+body {
+    background: linear-gradient(to bottom, rgb(21, 189, 223), rgb(0, 255, 213));
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.guido {
+    width: 300px;
+    margin-left: 40%;
+    border: solid 10px black;
+    padding: 10px;
+}
+
+h1 {
+
+    color: blue;
+    font-size: 50px;
+}
+
+#nomes {
+    color: red;
+}
+
+h2 {
+    font-size: 40px;
+    color: blue;
+}
+
+h3 {
+    color: blue;
+    font-size: 40px;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.imageminicial{
+    margin-left: 30%;
+    width: 35%;
+}
